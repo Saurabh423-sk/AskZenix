@@ -1,0 +1,146 @@
+{
+ 
+  "client":[
+    {
+    "icon":"fi fi-ts-grin",
+    "title":"100+",
+    "des":"Happy Clients"
+  },
+  {
+    "icon":"fi fi-tr-trophy-star",
+    "title":"50+",
+    "des":"Skilled Experts"
+  },
+  {
+    "icon":"fi fi-ts-feedback-review",
+    "title":"97+",
+    "des":"Finished Projects"
+  },
+  {
+    "icon":"fi fi-ts-bullhorn",
+    "title":"1090+",
+    "des":"Media Posts"
+  }
+  ],
+
+
+  
+  "FooterData":[
+  {
+    "title": "Our Services",
+    "data": [
+      { "label": "Web Development", "path": "/Web-Development" },
+      { "label": "Mobile App Development", "path": "/Mobile-App-Development" },
+      { "label": "Ecommerce Development", "path": "/Ecommerce-Development" },
+      { "label": "Digital Marketing", "path": "/Digital-Marketing" },
+      { "label": "Digital Transformation", "path": "/Digital-Transformation" },
+      { "label": "Salesforce Development", "path": "/Salesforce-Development" },
+      { "label": "Independent Testing Services", "path": "/Independent-Testing-Services" },
+      { "label": "Branding Services", "path": "/Branding-Services" }
+    ]
+  },
+  {
+    "title": "Company",
+    "data": [
+      { "label": "Contact Us", "path": "/Contact-Us" },
+      { "label": "About Us", "path": "/About-Us" },
+      { "label": "Careers", "path": "/Careers" },
+      { "label": "How We Work", "path": "/How-We-Work" },
+      { "label": "Our Team", "path": "/Our-Team" },
+      { "label": "Mission Vission", "path": "/Mission-Vission" },
+      { "label": "Our Value", "path": "/Our-Value" },
+      { "label": "Blogs", "path": "/Blogs" }
+    ]
+  },
+  {
+    "title": "Support",
+    "data": [
+      { "label": "Sitemap", "path": "/Sitemap" },
+      { "label": "Shopify", "path": "/Shopify" },
+      { "label": "Cookies policy", "path": "/Cookies-policy" },
+      { "label": "Terms of Services", "path": "/Terms-of-Services" },
+      { "label": "All Services", "path": "/All-Services" },
+      { "label": "All Hiring", "path": "/All Hiring" }
+    ]
+  }],
+
+
+
+  "Cards":[
+    {
+    "icon":"fa-solid fa-cloud",
+    "title":"Web Development Services",
+    "des":"We craft captivating and user-centric websites that turn visitors into loyal customers. So make a remarkable online impact by choosing our web development services",
+    "link":"/Web-Development"
+  },
+  {
+    "icon":"fa-solid fa-bullhorn",
+    "title":"Mobile App Development Services",
+    "des":"Boost your brand's mobile presence with our mobile app development services. We make apps that are easy to use and work on different devices, so your customers have a great experience",
+    "link":"/Mobile-App-Development"
+  },
+  {
+    "icon":"fa-solid fa-computer",
+    "title":"Branding Services",
+    "des":"We craft memorable brand identities that tell your unique story. Our work, from amazing logos to well-matched web design, makes sure your brand stands out",
+    "link":"/Branding-Services"
+  },
+  {
+    "icon":"fa solid fa-book-bookmark",
+    "title":"Search Engine Optimization (SEO)",
+    "des":"Boost your online visibility with our SEO expertise. We will optimize your website to rank higher in search engines and attract more organic traffic.",
+    "link":"/Search-Engine"
+    
+  },
+  {
+    "icon":"fa-brands fa-searchengin",
+    "title":"Pay-Per-Click Advertising (PPC):",
+    "des":"Maximize your ROI with our PPC campaigns. We shall create targeted ads that drive immediate traffic and conversions",
+    "link":"/Pay-Per-Click"
+    
+  },
+  {
+    "icon":"fa-solid fa-bullhorn",
+    "title":"Social Media Marketing",
+    "des":"Engage and expand your audience on social platforms. Our social media strategies will elevate your brand, drive engagement, and increase leads",
+    "link":"/Social-Media-Marketing"
+    
+  },
+  {
+    "heading":"Take A Look at Our Range of Services",
+    "paragraph":"We offer complete digital transformation services for the fortune 500 client acroos the globe."
+  }
+  ],
+
+  "Slide":[
+    {
+      "img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/9eab23abfff47cbd31ccad90ac5048ec-66c32aa264051.webp",
+      "title":"  Choose Our Comprehensive Solutions",
+      "paragraph":" Customized Web design services",
+      "path":"/Lets-Start"
+
+    },
+    {
+      "img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/92216b3e9f29c15cc088097f89838b38-66c32a6894264.webp",
+      "title":"  Boost Your Business With Our Innovative Solutions",
+      "paragraph":"We provide top-notch digital solutions to diverse industries",
+      "path":"/Lets-Start"
+
+    },
+    {
+      "img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/89bb80dd875721a63a443a17adbd7c6b-66c3298e2d1d3.webp",
+      "title":" INDIA'S #1 App Development Company  ",
+      "paragraph":"6+ Yrs in Biz, 100+ App Done, 100% Quality Work ",
+      "path":"/Lets-Start"
+    }
+  ],
+  "imageCards":[
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/HomeOnlineLogo.png"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/findingmfg.webp"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/oklus.png"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/ntiu.png"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/vinebrookhomes.png"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/touchpointtrans.png"}
+  ]
+
+}
