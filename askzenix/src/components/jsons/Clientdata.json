@@ -141,6 +141,646 @@
     {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/ntiu.png"},
     {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/vinebrookhomes.png"},
     {"img":"https://dfck301lncdlh.cloudfront.net/images/client-logo/light/touchpointtrans.png"}
-  ]
+  ],
 
+  "Events":[
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/tech/2.jpg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/tech/3.jpg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/tech/4.jpg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/tech/5.jpg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/gallery-h2.jpeg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/gallery-h1.jpeg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/gallery-h3.jpeg"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/images/gallery/gallery-h4.jpeg"}
+  ],
+
+
+  "ServiceImg":[
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/9d2710f7c14196805b6b953de9dea4a6-659e44281b0ad.webp",
+    "title":"Branding Services",
+    "brand":["UI/UX","Logo Designing","Visual Designing","Brand Collateral"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/c48829ca1348b7f467bcaa0d8a1d99d2-659e44064c4f9.webp",
+    "title":"Independent Testing Services",
+    "brand":["Functional Testing","Automation Testing","Mobile Testing","Accessibility Testing","Security Testing","DevOps Testing","Performance Testing","Api Testing"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/90c5d3da588bdc7f398615c7739d9753-659e43e3016d5.webp",
+    "title":"Digital Transformation",
+    "brand":["IOT","DevOps","Data Services and Engineering","AI and ML","Business Intelligence","Smart Home Automation","Block Chain","Cloud Engineering"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/90c5d3da588bdc7f398615c7739d9753-659e43e3016d5.webp",
+    "title":"Digital Marketing",
+    "brand":["SEO","SMO","Content Marketing","Paid Media Marketing","Video Marketing","Affiliate Marketing","Ecommerce Seo"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/648c6ef531dd38887c16def807d88710-659e43aad8b7f.webp",
+    "title":"Ecommerce Development",
+    "brand":["Magento","Shopify","Prestashop","Opencart","WooCommerce","BigCommerce","Wordpress","Custom Ecommerce"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/15fcec092e9cc6fc25750f074d77011a-659e434e077c2.webp",
+    "title":"Web Development",
+    "brand":["PHP","Laravel","React Js","Node Js","CakePHP","Codeigniter","TypeScript","Python"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/f1e6b59cf4917eed2664f3d53215e7a1-659e437e9dfbe.webp",
+    "title":"Mobile App Development",
+    "brand":["Andriod App","Ios App","Flutter App","React Native","Hybrid App","OTT App Development"]},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/a438925edf81b6f25a0049f92f1e792c-659e43f60f4db.webp",
+    "title":"Salesforce Development",
+    "brand":["Salesforce Consulting","Salesforce Integration","Salesforce Migration","Managed Services Provider","Salesforce Product Development","Salesforce Sales Cloud","Salesforce Service Cloud"]}
+  ],
+
+  "Blogs":[
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/e88f54b93ac7991f76d637d4c2768ec0-684044511fe61.jpg",
+    "title":"Why Custom Ecommerce Development is the Future for Online Businesses in 2025",
+    "tec":"Admin",
+    "date":"04 Jun, 2025"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/abdc01f85803b4f29a24f5728381d53f-678908b43562b.png",
+    "title":"What's New in React for 2025? A Look at Features and Updates",
+    "tec":"React",
+    "date":"16 Jan, 2025"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/655013d4b95b0207ed4de00402258737-66f25c0db7901.png",
+    "title":"Asynchronous Programming in Node.js: Promises and Callbacks",
+    "tec":"Testing",
+    "date":"24 Sep, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/df80ffdb9e559ac55189d2075a849283-66e7fb4c4b635.png",
+    "title":"Introduction to Node.js: Event-Driven Programming in JavaScript",
+    "tec":"software",
+    "date":"16 Sep, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/9208099f72edfdb14d61373673e971f4-66b20afbb150a.png",
+    "title":"What Is The Advantage Of Independent Testing?",
+    "tec":"Software",
+    "date":"06 Aug, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/7b6f631b134128b3d10e5f6047acd619-66ab5daba9745.png",
+    "title":"What is the Scope of the MEAN Stack Developer?",
+    "tec":"Software",
+    "date":"01 Aug, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/c083119e6feda46a339def1e71299de6-66a099732b5ef.png",
+    "title":"How To Hire a Full-Stack Software Developer in 2024?",
+    "tec":"Software",
+    "date":"24 Jul, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/573663be88e857de3d00bbfcdf969453-6694f7d61ca60.png",
+    "title":"How can we find the right software development company?",
+    "tec":"software",
+    "date":"15 Jul, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/684aa216e7ed1dc456019dd4c2127505-66852ac1854c1.png",
+    "title":"What are the basics of Selenium testing?",
+    "tec":"Testing",
+    "date":"03 Jul, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/23656f8aa28833893996a1af51d94607-668278917b35e.png",
+    "title":"Which is the best Flutter App Development Company in India?",
+    "tec":"Flutter",
+    "date":"01 Jul, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/0d0fabdd42dd45ec066e079679288147-6682674a1edfb.png",
+    "title":"Unlocking Success: Key Strategies for Salesforce Implementation",
+    "tec":"Salesforce",
+    "date":"01 Jul, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/37cae929c3d9e2b96dd5bc097322dd78-667bb018d1913.png",
+    "title":"How does a software testing company create a quality assurance plan?",
+    "tec":"testing",
+    "date":"26 Jun, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/f535e0f3d00122c9fda77d27c25e974a-66614929417b4.png",
+    "title":"Laravel Nova Overview: A long overview of Laravel's admin panel",
+    "tec":"Laravel",
+    "date":"06 Jun, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/0257662dce00171713bca8a6c1702cd2-6656dbc8278ba.png",
+    "title":"Navigating the Salesforce Ecosystem: Understanding Editions and Licenses",
+    "tec":"Salesforce",
+    "date":"29 May, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/4edb510b6a074ec35b6141a28572cbec-663e023167102.png",
+    "title":"Laravel Security Best Practices: Protecting Against Common Vulnerabilities",
+    "tec":"Laravel",
+    "date":"10 May, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/7f6a98a56475f5510ddb96d2e938577c-66386f6100211.png",
+    "title":"Scaling PHP Applications: Strategies for Handling Increased Traffic and Load",
+    "tec":"PHP",
+    "date":"06 May, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/fc9ef4988035ee273dacbfb55d7790b3-66265bf6b7354.png",
+    "title":"Exploring PHP Extensions: Enhancing Functionality and Performance",
+    "tec":"PHP",
+    "date":"22 Apr, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/8033c175df4c8b3db44b5ea7f9a87e4c-66152dc759427.png",
+    "title":"Optimizing PHP Performance: Tips for Faster Websites and Applications",
+    "tec":"PHP",
+    "date":"09 Apr, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/c9c127a7680efcc62f9f8e3c13779446-661390705773a.png",
+    "title":"Deploying PHP Applications: Local Development to Production Servers",
+    "tec":"PHP",
+    "date":"08 Apr, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/44179a643ff0c9ec284e3c7a7f57a7a3-660fabb7d796b.png",
+    "title":"Integrating PHP with JavaScript AJAX, JSON, and Beyond",
+    "tec":"PHP",
+    "date":"05 Apr, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/e99f2d6d74afecf2bf595f37cced6519-65f1782659a0c.png",
+    "title":"Node.js Development Trends and Predictions in 2024",
+    "tec":"Technology",
+    "date":"12 Mar, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/06e5c6db96af869dbaac91e32e068606-65e57c3c9de82.png",
+    "title":"what is the latest technology in 2023?",
+    "tec":"Technology",
+    "date":"04 Mar, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/88ba2865b26597886330db2df145b919-65d339fac863e.png",
+    "title":"What are the PHP Web Development Trends in 2024?",
+    "tec":"PHP",
+    "date":"19 Feb, 2024"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/7a796fbef89bbb44545d21b69528aabe-659fc524af7f6.webp",
+    "title":"Hobbies with Passion & Purpose",
+    "tec":"Passion",
+    "date":"29 Dec, 2023"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/5f0d38922ccf6fc96eae07ffc9e9a0d9-659fc557bf1b7.webp",
+    "title":"How to do Analysis and Strategy for SEO Project",
+    "tec":"Seo",
+    "date":"29 Dec, 2023"},
+
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/blogs/1dca530ea3f86c09e7e329c0ab606739-659fc54d00f50.webp",
+    "title":"What to consider while hiring a testing service company?",
+    "tec":"Google Analytics",
+    "date":"29 Dec, 2023"}
+  ],
+
+  "carrerImg":[
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/78c4c56c8c1d658a830b2ad512368e0e-659fcd7f8292b.webp",
+    "num":"01",
+    "des":"Our Culture"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/b9a54a9454a4c82020b5717230414b0e-659fcd8e02125.webp",
+    "num":"02",
+    "des":"Our Research & Innovation"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/3cdd4d5fd26c697b399563be8bbb8eb8-659fcd9ddb7a9.webp",
+    "num":"03",
+    "des":"Cutting Edge Technologies"},
+    {"img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/23f078533db3468cde73664f7127ee0a-659fcdaab6401.webp",
+    "num":"04",
+    "des":"Integrity"}
+  ],
+  "OurValue_Content":[
+    {"num":"01",
+    "title":"Agile Scrum",
+    "des":"Askzenix Technologies have the capability to rapidly respond to the growing need of Agile Software Development in the business sector through continuous training and procedure upgrades."},
+
+    {"num":"02",
+    "title":"Focussed on Helping you succeed",
+    "des":"Our work isn’t just work - it’s our passion. We are data-driven and results-oriented creative experts."},
+
+    {"num":"03",
+    "title":"Creative Work",
+    "des":"As a creative professional, you'll know only too well how important inspiration is for your work. That's whether you've just made a cup."},
+
+    {"num":"04",
+    "title":"On Time Delivery",
+    "des":"We know that time is money in business, so we set realistic deadlines (for ourselves and for our clients) and stick to them."},
+
+    {"num":"05",
+    "title":"Integrity",
+    "des":"We believe in doing business with honesty, integrity and a sincere heart for others. We aren’t going to sell you something you don’t need."},
+
+    {"num":"06",
+    "title":"Quick Support",
+    "des":"We are open to give support to our client into 24X7 Environment"},
+
+    {"num":"07",
+    "title":"Focus – having a plan",
+    "des":"So, make the decision to move forward. Commit your decision to paper, just to bring it into focus."}
+  ],
+
+
+  "Careerimg":[
+    {"img":"https://askzenixtechnologies.com/images/about/05.jpg"},
+    {"img":"https://askzenixtechnologies.com/images/about/111.png"},
+    {
+      "title":"Life at Askzenix Technologies",
+      "des":"Our culture is a foundation of our success and it is completely people oriented, touching lives and making a difference to employees, stakeholders, customers and partners.",
+      "list":["Leading with Purpose","Continous Learning","Work Environment","Cutting Edge Technologies","Entrepreneurship"]
+    }
+
+  ],
+  "Ourmission":[
+    {"title":"Careers",
+    "des":"Walkout 6 years into your future and feel how it feels to carry on doing the same thing.",
+    "text":"View Positions",
+    "path":"/View-Positions"},
+
+    {"title":"Latest News",
+    "des":"This path is just like today, with one difference: you have 6 fewer years remaining in your life.",
+    "text":"View Blogs",
+    "path":"/View-Blogs"},
+
+    {"title":"Contact",
+    "des":"I want you to think about how you will feel in 6 years if you continue doing the exact same things.",
+    "text":"Request Quote",
+    "path":"/Request-Quote"}
+  ],
+
+  "Clientstudy":[
+    
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    },
+    
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    },
+
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    },
+    
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    },
+    
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    },
+
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    },
+    
+    {"title":"HomeOnline - Complete Real Estate Platform",
+    "site":"www.homeonline.com",
+    "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations."
+    } 
+
+  ],
+
+  "HowToWork":[
+    
+  {"basic":[
+      {
+        "title":"Basic",
+        "Rs":"149",
+        "des":"Only the basics - Everything you need to get started. Best for startup",
+        "list":["1 Analytics Campaigns","15-20 Keywords","8 Social Accounts"]
+      }
+  ]},
+
+  {"Standard":[
+      {
+        "title":"Standard",
+        "Rs":"249",
+        "des":"When you are ready to grow, We will grow with you. Get a Standard plan",
+        "list":["2 Analytics Campaigns","Branded Reports","21-25 Keywords","500 Crawled Pages","10 Social Accounts"
+]
+      }
+  ]},
+
+ {"Premium":[
+      {
+        "title":"Premium",
+        "Rs":"299",
+        "des":"Ready to kick it up a notch? Go for big with Professional membership",
+        "list":["3 Analytics Campaigns","26-30 Keywords","1,000 Crawled Pages","15 Social Accounts"]
+      }
+  ]}
+
+  ],
+
+
+  "CareerBttn":[
+
+    {"SeoExpert":[
+      {
+        "title":"Job description",
+        "des":"We are looking for an SEO expert to manage all search engine optimization and marketing activities.",
+        "Response":"Job Responsibilities :",
+        "Responselist":["Perform SEO Audits using tools like Screaming Frog (Paid Version), Sitebulb or any other Crawling","Resolve Audit Issues Individually and with the help of a web developer","Perform Extensive Keyword Research","Perform various On-Page Optimization activities like the meta title and descriptions, heading tags, schema code, etc","Prepare Content Topics","Create Detailed Content Briefs for Content Writers","Setup Google Analytics, Google Tag Manager and Google Webmaster Account","Prepare Monthly Report","Client Communication"],
+        "Requirement":"Requirements:",
+        "Requirementlist":["3 to 6 Years of Experience","Understanding of How Google Search Works i.e. the concept of crawling, indexing and Self-driven and passionate about SEO","Hands of Experience of Tools like Screaming Frog (Paid Version) or Sitebulb or any other paid Crawling Tool, WordPress SEO Plugins like Yoast SEO or Rank Math, etc","Experience of working on an Ecommerce Website will be an added advantage","Excellent at Written and Verbal Communication"]
+      }
+    ]},
+    
+
+    {"Autotest":[
+      {
+      "head":"Job description",
+      "titlelist":["Strong script writing experience in automation tools like Selenium and good knowledge in testing practices.","Designing and implementing Test Automation Strategy.","Experience configuring and running functional automated software tests.","Creating modular and reusable Automation frameworks with Selenium + JUnit/TestNG.","Experience in any framework like Cucumber or Date Driven.","Behavior Driven Development (BDD) framework / Test Driven Development (TDD) framework.","Strong Knowledge of AngularJS, Protractor, Maven and Charles Proxy.","Strong Knowledge of BDD/Cucumber.","Experience using JavaScript & Type Scripting (JS/TS) and knowledge of Puppeteer/Cucumber. automation for angular application is desirable JavaScript.","Designing and implementing Test Automation Strategy.","Creating modular and reusable Automation frameworks with Selenium + JUnit/TestNG automation."]
+      }
+    ]},
+
+    {"Councellor":[
+      {
+        "heder":"Job description",
+        "titlelist":["Answering questions and addressing complaints of students.","Good communication skill and should be presentable.","To counsel students regarding IT courses.","Good in English.","Good knowledge of MS Office","Good organizational and multi-tasking abilities"]
+      }
+    ]}
+
+
+  ],
+
+
+  "OurHero":[
+    {
+      "img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/61339f13053afeda51de9e2bf954a4b1-6597dc1eeaa2d.png",
+      "name":"Ashok",
+      "deg":"Founder & CEO"
+    },
+
+    {
+      "img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/7d45a59647797ca404daafcbc23a7485-6597c8fbde759.png",
+      "name":"Gautam Gupta",
+      "deg":"Chief Technologies Officer"
+    },
+
+    {
+      "img":"https://dfck301lncdlh.cloudfront.net/resource/img/widget/aff016ece74d495a28f534c51bc64ba8-6597dc61cb985.png",
+      "name":"Hemendra",
+      "deg":"Technical Architect"
+    },
+
+    {"text":[
+      {"title":"Empowering progress through tech and innovation."},
+      {"paragraph":["As the digital landscape evolves at an unprecedented pace, businesses must reinvent themselves to stay ahead. That's where we come in – We’re Askzenix Technologies: A leading IT services company dedicated to powering your digital evolution.","At Askzenix Technologies, we understand that successful digital transformation is about more than just Technologies. It’s a holistic journey that intertwines people, processes, and seamless connectivity.","Our team of highly skilled professionals leverage cutting-edge technologies, such as cloud computing, artificial intelligence, blockchain and DevOps to drive efficiency, enhance customer experiences, and fuel business growth."]},
+      {"text":"Know About More"}
+    ]},
+
+    {"images":[
+      {"img":"https://askzenixtechnologies.com/images/about/05.jpg"},
+      {"img":"https://askzenixtechnologies.com/images/about/06.jpg"},
+      {"img":"https://askzenixtechnologies.com/images/about/07.jpg"}
+
+    ]}
+  ],
+
+  "WorkContent":[
+  {
+    "title": "Understanding Your Needs",
+    "content": [
+      "We start by thoroughly understanding your business objectives, challenges, and unique requirements.",
+      "Our dedicated team collaborates closely with you to ensure a deep understanding of your vision and goals."
+    ]
+  },
+  {
+    "title": "Strategic Planning",
+    "content": [
+      "Based on the gathered insights, we develop a comprehensive project plan that outlines the scope, timeline, and milestones.",
+      "Our planning phase is focused on creating a roadmap that aligns with your business strategy."
+    ]
+  },
+  {
+    "title": "Agile Development Methodology",
+    "content": [
+      "We follow an Agile development methodology to ensure flexibility and adaptability throughout the project lifecycle.",
+      "Regular sprint reviews and client feedback sessions keep you informed and involved in the development process.",
+      "We have team of experienced Scrum Masters, Product Owner & Business Analyst with decades of experience in diverse industries."
+    ]
+  },
+  {
+    "title": "Experienced Development Team",
+    "content": [
+      "Our team of skilled developers brings a wealth of experience in various technologies and industries.",
+      "We are committed to staying updated on the latest trends and technologies to deliver cutting-edge solutions."
+    ]
+  },
+  {
+    "title": "Collaborative Communication",
+    "content": [
+      "Transparent communication is at the heart of our working philosophy.",
+      "You'll have a dedicated Technical project manager or Scrum Master who serves as a single point of contact, providing regular updates and addressing any concerns."
+    ]
+  },
+  {
+    "title": "Quality Assurance",
+    "content": [
+      "Our rigorous quality assurance process ensures that every line of code meets the highest standards.",
+      "We conduct thorough testing at each stage to identify and address any issues before the final delivery. Our founder is having more than 12 Year Working experience in testing itself with CMM level organizations i.e Sapient, Saxo Bank, IBM & Fareportal.",
+      "We have separate QA Engineering department with more than 15+ experienced Test Analyst, Automation Test Engineer, Automation Architect, Performance Tester & Scrum Masters."
+    ]
+  },
+  {
+    "title": "Timely Delivery",
+    "content": [
+      "We understand the importance of timelines in the business world. Our team is committed to delivering projects on schedule.",
+      "Regular progress assessments and adjustments are made to ensure that deadlines are met without compromising quality."
+    ]
+  },
+  {
+    "title": "Post-Implementation Support",
+    "content": [
+      "Our commitment doesn't end with the delivery of the project. We provide ongoing support and maintenance to address any issues and ensure optimal performance."
+    ]
+  },
+  {
+    "title": "Client Collaboration",
+    "content": [
+      "We view our clients as partners. Your feedback and collaboration are essential throughout the development process.",
+      "Regular check-ins and feedback sessions ensure that the final product aligns with your expectations."
+    ]
+  },
+  {
+    "title": "Continuous Improvement",
+    "content": [
+      "We believe in continuous improvement and regularly review our processes to enhance efficiency and effectiveness.",
+      "Your input is invaluable in this process, helping us refine our approach for future projects."
+    ]
+  }
+],
+
+
+"Quality":[
+    {
+      "num":"01",
+      "title":"Quality Assurance",
+      "des":"Askzenix Technologies values quality and provides 100% bug free application with no compromisation in it."
+    },
+
+    {
+      "num":"02",
+      "title":"Requirement Gathering",
+      "des":"We follow the first and foremost priority of gathering requirements, resources, and information to begin our project."
+    },
+
+    {
+      "num":"03",
+      "title":"Design",
+      "des":"We create catchy and charming designs with the latest tools of designing to make it a best user-friendly experience."
+    },
+
+    {
+      "num":"04",
+      "title":"Development",
+      "des":"Development of mobile application/web/blockchain started using latest tools and technologies with transparency."
+    },
+
+    {
+      "num":"05",
+      "title":"Deployment",
+      "des":"After Trial and Following All processes, your application is ready to deploy on the live server."
+    },
+
+    {
+      "num":"06",
+      "title":"Go-Live",
+      "des":"Our company offers you all support and the team is always ready to answer every query after deployment."
+    }
+
+],
+
+
+"Study":[
+  {"Platform1":[
+      {
+        "title":"HomeOnline - Complete Real Estate Platform",
+        "Url":"www.homeonline.com",
+        "des":"HomeOnline is our flagship real estate platform offering end-to-end property solutions with AI-driven recommendations.",
+        "list":["PHP","Laravel","React Native","MySQL","AI/ML"],
+        "imgs":[
+          {
+            "label":"Mobile App",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/homeonline-mobile.png"
+          },
+          {
+            "label":"Web Platform",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/homeonline.png"
+          }
+        ]
+      }
+  ]},
+
+   {"Platform2":[
+      {
+        "title":"Agentive AI in Performance Marketing Optimization",
+        "Url":"www.nyx.today",
+        "des":"NYX was born from a vision to simplify marketing and amplify results. In a world overwhelmed by complexity, we empower brands and creators to thrive by blending the art of storytelling with the precision of AI.",
+         "list":["PHP","Laravel","React Native","MySQL","AI/ML"],
+         "imgs":[
+          {
+            "label":"Web Platform",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/nyx_autoPilot.gif"
+          }
+          
+        ]
+      }
+  ]},
+
+   {"Platform3":[
+      {
+        "title":"Enhancing Data Processing Efficiency with Agentive AI",
+        "Url":"Vinebrook Homes",
+        "des":"Vinebrook Homes, a leading provider of single family rental homes in the US market, sought to enhance productivity and reduce time spent on repetitive tasks. The company implemented an Agentive AI system to proactively assist employees in processing different bill formats. This case study explores the impact of the AI implementation.",
+        "list":["PHP","Laravel","React Native","MySQL","AI/ML"],
+        "imgs":[
+          {
+            "label":"Web Platform",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/vinebrook.png"
+          }
+          
+        ]
+      }
+  ]},
+
+   {"Platform4":[
+      {
+        "title":"Agentive AI in Financial Document Processing",
+        "Url":"SRGA Global Management Consultancies",
+        "des":"SRGA Global, an India-based CA firm serving 300+ global clients, sought to automate their daily accounting activities. They needed an AI solution to process diverse financial documents including emails, bank statements, and invoices.",
+         "list":["PHP","Laravel","React Native","MySQL","AI/ML"],
+        "imgs":[
+          {
+            "label":"Web Platform",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/srga_01.png"
+          }
+          
+        ]
+      }
+  ]},
+
+   {"Platform5":[
+      {
+        "title":"DENSO - Advanced Mobility Solutions",
+        "Url":"www.denso.com",
+        "des":"DENSO is a global company focused on advanced mobility that positively changes how the world moves and contributes to greater well-being. As a global Fortune 500 company, They have a broad product portfolio and widespread global impact.",
+        "list":["PHP","Laravel","Ajax","MySQL","JavaScript"],
+        "imgs":[
+          {
+            "label":"Web Platform",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/denso.png"
+          }
+          
+        ]
+      }
+  ]},
+
+   {"Platform6":[
+      {
+        "title":"Basket.app - Grocery Delivery Platform",
+        "Url":"basket.app",
+        "des":"Basket is a Jordan-based online grocery delivery service platform that allows users to order groceries from stores they love, and have them delivered at their doorstep in as little as an hour. We partnered with them from their startup phase to build their complete digital ecosystem.",
+        "list":["Laravel","Android","iOS","MySQL","API Integration"],
+        "imgs":[
+          {
+            "label":"Android App",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/basket1.jpg"
+          },
+          {
+            "label":"IOS APP",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/basket2.jpg"
+          }
+        ]
+      }
+  ]},
+
+   {"Platform7":[
+      {
+        "title":"iOT-Hydra-Sense is an iOT application",
+        "Url":"iOT Bottle",
+        "des":"The iOT bottle provides information about how much water you should drink daily. It tracks your hydration habits and gives real-time reminders to help you stay hydrated. Designed for both Hybrid App (Flutter) platforms, it’s a smart way to improve your overall health.",
+       "list":["Flutter Frameworks","Third-Party SDKs","iOS Native Api","Android Native Api","Android Studio"],
+        "imgs":[
+          {
+            "label":"Android App",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/iot-mobile.png"
+          },
+          {
+            "label":"IOS APP",
+            "img":"https://www.askzenixtechnologies.com/images/portfolio/iOT-iOS.png"
+          }
+        ]
+      }
+  ]}
+
+
+]
+
+
+
+
+
+
+
+  
 }
+
+
+
+
+

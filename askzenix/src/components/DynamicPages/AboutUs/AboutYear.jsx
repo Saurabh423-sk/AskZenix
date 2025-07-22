@@ -3,8 +3,6 @@ const AboutYear = (props) => {
     <>
       <>
        
-      
-
        <strong>{props.boldtext}</strong>
        <h5 className="text-[#022D62] pb-3"> {props.head}</h5>
        <p >{props.p}   <a  className=" text-[#022D62]">{props.a}</a></p>

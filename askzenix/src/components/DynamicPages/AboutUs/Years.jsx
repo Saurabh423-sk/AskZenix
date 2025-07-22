@@ -13,8 +13,7 @@ const Years = (props) => {
     <div
       onClick={handle}
       className="cursor-pointer absolute flex flex-col right-0 -top-9.5 justify-center items-center list-none"
-      style={{ right: props.value }}
-    >
+      style={{ right: props.value }}>
       <li>
         <a className="font-semibold">{props.Year}</a>
       </li>

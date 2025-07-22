@@ -22,6 +22,9 @@ import Case_Study from './components/DynamicPages/CaseStudy/Case_Study';
 import Blogs_d from './components/DynamicPages/Blogs_d/Blogs_d';
 import Our_Value from './components/DynamicPages/OurValue/Our_Value';
 import Client from './components/Client';
+import ServiceImgs from './components/DynamicPages/AboutUs/ServiceImgs';
+import BlogsImg from './components/DynamicPages/Blogs_d/BlogsImg';
+import CareerAndMissin from './components/DynamicPages/CareerAndMissin';
 
   const dropmenu=[ 
 
@@ -332,9 +335,9 @@ const router = createBrowserRouter([
          <AboutUs/>
         <Client/>
          <Video/>
+         <ServiceImgs />
          <Share title="Tell us about your idea, and we’ll make it happen." p="Have a brand problem that needs to be solved? We’d love to hear about it!"/>
-        <NewFooter />
-        
+        <NewFooter /> 
     </>
   ),
 },
@@ -433,6 +436,7 @@ const router = createBrowserRouter([
           <Navbar dropmenu ={dropmenu} hire={hire} Industry={Industry} Company={Company}/>
         </div>
         <Blogs_d/>
+        <BlogsImg/>
         <NewFooter />
     </>
   ),
